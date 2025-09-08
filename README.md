@@ -86,10 +86,10 @@
   A modern dating app with swipe cards, real-time chat, and Firebase backend.  
 
 - 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)  
-  Personal portfolio built with Next.js & Tailwind CSS.  
+  Personal portfolio built with Next.js & Tailwind CSS.    
 
-<br>  
-
+![GitHub Snake Dark](https://raw.githubusercontent.com/jaiswaldhiraj/jaiswaldhiraj/output/snake.svg#gh-dark-mode-only)
+ 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&show_icons=true&theme=gruvbox)  
 ![](https://nirzak-streak-stats.vercel.app/?user=jaiswaldhiraj&theme=gruvbox&hide_border=false)  
