@@ -1,19 +1,22 @@
-
-
 # Hi 👋, I'm Dhiraj Jaiswal
 ## A passionate Android Developer from India 🚀
 
----
+
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently working on **Milap (a dating app)**
 - 💻 I enjoy building apps that make life easier
 - 📫 Reach me at **jaiswaldhiraj928@gmail.com**
-- 🌐 Check out my [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 Check out my [**Portfolio Website**](https://your-portfolio-link.com)
 
 ---
 
-### ⚒️ Tech Stack
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaiswaldhirajj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiswaldhiraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaiswaldhirajj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswaldhiraj928@gmail.com) 
+
+
+# 💻 Tech Stack:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
@@ -52,16 +55,17 @@
 
 ---
 
-### 📌 Featured Projects
+# 📌 Featured Projects
 - 🔥 [Milap - Dating App](https://github.com/jaiswaldhiraj/milap)
 - 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)
-- 🧮 [Calculator](https://github.com/jaiswaldhiraj/calculator)
 
----
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaiswaldhiraj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&show_icons=true&theme=gruvbox)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=jaiswaldhiraj&theme=dark&hide_border=false)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswaldhiraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -70,15 +74,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaldhiraj&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jaiswaldhiraj&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 ### 🌎 Connect With Me
 <p align="center">
