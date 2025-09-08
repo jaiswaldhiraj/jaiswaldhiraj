@@ -16,7 +16,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          date > update.txt
+          echo "updated" > update.txt
           git add update.txt
-          git commit -m "chore: auto commit $(date)"
+          git commit -m "some changes made"
           git push
