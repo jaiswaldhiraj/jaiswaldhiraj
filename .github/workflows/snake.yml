@@ -9,14 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate dark snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: jaiswaldhiraj
           outputs: dist/snake.svg
-          palette: dracula
+          palette: github-dark
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
