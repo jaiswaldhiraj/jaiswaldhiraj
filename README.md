@@ -1,19 +1,19 @@
 # Hi 👋, I'm Dhiraj Jaiswal
-## A passionate Android Developer from India 🚀
+💻 Passionate web & Android developer skilled in building modern, responsive, and scalable applications. Experienced with **Next.js, Tailwind CSS, Firebase, and Java (XML)**, I focus on creating intuitive user experiences with strong performance. Always eager to collaborate and solve real-world problems through technology.
+
+<br>  
+
+# 👨‍💻 About Me  
+
+- 🔭 Currently building **Milap**, a modern dating app with Firebase backend & real-time chat.  
+- 🌱 Learning more about **React Native & Cloud Functions**.  
+- 💻 Skilled in **Next.js, Tailwind CSS, Firebase, and Android (Java + XML)**.  
+- 🚀 Passionate about creating **scalable apps** with intuitive user experiences.  
+- 🤝 Open to collaborating on web/app projects and exploring open-source.  
+- 📫 Reach me at: **jaiswaldhriaj928@gmail.com | [LinkedIn](https://www.linkedin.com/in/jaiswaldhiraj/) | [Portfolio](https://www.dhirajportfolio.online/)**
 
 
-
-### 👨‍💻 About Me
-- 🌱 I’m currently working on **Milap (a dating app)**
-- 💻 I enjoy building apps that make life easier
-- 📫 Reach me at **jaiswaldhiraj928@gmail.com**
-- 🌐 Check out my [**Portfolio Website**](https://your-portfolio-link.com)
-
----
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaiswaldhirajj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiswaldhiraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaiswaldhirajj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiswaldhiraj928@gmail.com) 
+<br> 
 
 
 # 💻 Tech Stack:  
@@ -51,15 +51,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/eslint/eslint-original.svg" width="50" height="50"/>
 </p>
+<br>  
 
 
----
+# 📌 Featured Projects  
+- **🔥 [Milap - Dating App](https://github.com/jaiswaldhiraj/Milap-Repo-Public)**
+- **🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)**
 
-# 📌 Featured Projects
-- 🔥 [Milap - Dating App](https://github.com/jaiswaldhiraj/milap)
-- 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)
-
-
+<br>  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&show_icons=true&theme=gruvbox)  
@@ -71,14 +70,25 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaiswaldhiraj&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaiswaldhiraj&icon=9&color=0)](https://visitcount.itsvg.in)
 
-### 🌎 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jaiswaldhiraj928@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
+
+## 🌐 Socials
+<a href="https://www.instagram.com/jaiswaldhirajj">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a> 
+<a href="https://www.linkedin.com/in/jaiswaldhiraj/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jaiswaldhiraj928@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.x.com/jaiswaldhirajj">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
