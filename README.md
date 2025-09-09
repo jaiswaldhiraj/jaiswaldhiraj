@@ -88,8 +88,6 @@
 - 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)  
   Personal portfolio built with Next.js & Tailwind CSS.    
 
-![Snake animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-contribution-grid-snake.svg)
-
 ![Snake dark animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-contribution-grid-snake-dark.svg)
  
 # 📊 GitHub Stats
