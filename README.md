@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%"/>
+  <img src="assets/banner.png" alt="Banner" width="1000px"/>
 </p>  
 
 # Hi 👋, I'm Dhiraj Jaiswal  
@@ -10,10 +10,12 @@
 
 # 👨‍💻 About Me  
 
-- 🌱 Learning more about **React Native & Cloud Functions**.  
-- 💻 Skilled in **Next.js, Tailwind CSS, Firebase, and Android (Java + XML)**.  
-- 🤝 Open to collaborating on web/app projects and exploring open-source.  
-- 📫 Reach me at: **jaiswaldhiraj928@gmail.com | [LinkedIn](https://www.linkedin.com/in/jaiswaldhiraj/) | [Portfolio](https://www.dhirajportfolio.online/)**  
+- 🌱 Currently exploring **React Native & Cloud Functions**  
+- 🛠️ Skilled in **Next.js, Tailwind CSS, Firebase, and Android (Java + XML)**  
+- 🤝 Open to collaborations on **web and mobile projects**  
+- 📫 Reach me at **jaiswaldhiraj928@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/jaiswaldhiraj/)  
+
+💻 **Fun fact:** I write code that works perfectly… on the third try.
 
 <br>  
 
@@ -87,12 +89,12 @@
 
 # 📌 Featured Projects  
 - 🔥 [Milap - Dating App](https://github.com/jaiswaldhiraj/Milap-Repo-Public)  
-  A modern dating app with swipe cards, real-time chat, and Firebase backend.  
+  Built with **Java, Firebase, and Lottie animations** – swipe cards, real-time chat & notifications.  
 
 - 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)  
-  Personal portfolio built with Next.js & Tailwind CSS.
+  Built with **Next.js, Tailwind CSS, and Vercel** – responsive and optimized.
 
-<br>
+**🚨 99 little bugs in the code, 99 little bugs… take one down, patch it around, 127 little bugs in the code.**
   
 ## 🐍 Contribution Snake
 <picture>
@@ -100,8 +102,14 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswaldhiraj/jaiswaldhiraj/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+**🌙 My favorite IDE theme: *Dark Mode* at 3 AM.**
+
+## 📈 Activity Graph  
+![](https://github-readme-activity-graph.vercel.app/graph?username=jaiswaldhiraj&theme=gruvbox)  
+
+**🎮 Gamer by night, bug creator by day.**
  
-# 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&show_icons=true&theme=gruvbox)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaiswaldhiraj&theme=gruvbox&hide_border=false)    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswaldhiraj&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
@@ -110,6 +118,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jaiswaldhiraj&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaiswaldhiraj&icon=9&color=0)](https://visitcount.itsvg.in)
