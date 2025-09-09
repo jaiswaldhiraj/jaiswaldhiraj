@@ -99,7 +99,7 @@
  
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaiswaldhiraj&show_icons=true&theme=gruvbox)  
-![](https://nirzak-streak-stats.vercel.app/?user=jaiswaldhiraj&theme=gruvbox&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaiswaldhiraj&theme=gruvbox&hide_border=false)    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswaldhiraj&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 🏆 GitHub Trophies
