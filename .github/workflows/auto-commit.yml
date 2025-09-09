@@ -1,0 +1,22 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Runs every day at 5 AM UTC
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Make dummy commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          echo "Last update: $(date)" > update.txt
+          git add update.txt
+          git commit -m "chore: auto commit on $(date)"
+          git push
