@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%"/>
-</p>
+</p>  
+
 # Hi 👋, I'm Dhiraj Jaiswal  
 💻 Web & Android Developer | Building **scalable apps** with **Next.js, Tailwind CSS, Firebase, and Java (XML)**.  
 🚀 Currently working on **Milap**, a modern dating app with real-time chat.  
