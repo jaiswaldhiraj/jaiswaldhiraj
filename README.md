@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner" width="1000px"/>
 </p>  
 
-# Hi 👋, I'm Dhiraj Jaiswal  
+# “Hi 👋, I'm Dhiraj Jaiswal”  
 💻 Web & Android Developer | Building **scalable apps** with **Next.js, Tailwind CSS, Firebase, and Java (XML)**.  
 🚀 Currently working on **Milap**, a modern dating app with real-time chat.  
 
