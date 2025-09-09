@@ -13,7 +13,7 @@
 
 <br>  
 
-## 🌐 Socials
+# 🌐 Socials
 <a href="https://www.instagram.com/jaiswaldhirajj">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a> 
@@ -25,7 +25,7 @@
 </a>
 <a href="https://www.x.com/jaiswaldhirajj">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+</a>  
 
 <br>  
 
@@ -86,8 +86,11 @@
   A modern dating app with swipe cards, real-time chat, and Firebase backend.  
 
 - 🌐 [Portfolio Website](https://github.com/jaiswaldhiraj/portfolio)  
-  Personal portfolio built with Next.js & Tailwind CSS.    
+  Personal portfolio built with Next.js & Tailwind CSS.
 
+<br>
+  
+## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswaldhiraj/jaiswaldhiraj/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswaldhiraj/jaiswaldhiraj/refs/heads/output/github-contribution-grid-snake-dark.svg" />
