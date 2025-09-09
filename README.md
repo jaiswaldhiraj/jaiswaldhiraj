@@ -3,17 +3,16 @@
 </p>  
 
 # “Hi 👋, I'm Dhiraj Jaiswal”  
-💻 Web & Android Developer | Building **scalable apps** with **Next.js, Tailwind CSS, Firebase, and Java (XML)**.  
+💻 Web & Android Developer | Building **scalable Mobile Applications** and **Website**.  
 🚀 Currently working on **Milap**, a modern dating app with real-time chat.  
 
 <br>  
 
 # 👨‍💻 About Me  
 
-- 🌱 Currently exploring **React Native & Cloud Functions**  
-- 🛠️ Skilled in **Next.js, Tailwind CSS, Firebase, and Android (Java + XML)**  
+- 🛠️ Worked in **Next.js, Tailwind CSS, Firebase, and Android (Java + XML)**  
 - 🤝 Open to collaborations on **web and mobile projects**  
-- 📫 Reach me at **jaiswaldhiraj928@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/jaiswaldhiraj/)  
+- 📫 Checkout My [Portfolio](https://www.dhirajportfolio.online)  
 
 💻 **Fun fact:** I write code that works perfectly… on the third try.
 
