@@ -1,4 +1,4 @@
-name: Auto Commit
+name: Commit
 
 on:
   schedule:
@@ -18,5 +18,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           echo "Last update: $(date)" > update.txt
           git add update.txt
-          git commit -m "chore: auto commit on $(date)"
+          git commit -m "chore: updated on $(date)"
           git push
